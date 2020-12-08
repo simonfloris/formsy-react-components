@@ -40,7 +40,7 @@
     "url": "https://github.com/twisty/formsy-react-components/issues"
   },
   "peerDependencies": {
-    "formsy-react": "^2.0.2",
+    "formsy-react": "^2.2.1",
     "react": "^16.6.0"
   },
   "dependencies": {

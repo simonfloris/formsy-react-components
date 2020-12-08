@@ -5,3 +5,5 @@ notes/
 dist-esm/
 dist-umd/
 *.log
+.idea
+package-lock.json
